@@ -10,8 +10,8 @@
 <h2>Índice</h2>
 
 <ul>
-<li><code>https://github.com/Akina-Ino/Comp-Paralel/blob/main/src/HelloWorld.png</code>: Gcc do código "Hello, world!".</li>
-<li><code>[Screenshot.png](https://github.com/Akina-Ino/Comp-Paralel/blob/main/src/HelloWorld_push.png)</code>: Screenshot do processo de push do arquivo teste.c para este repositório github.</li>
+<li><img>https://github.com/Akina-Ino/Comp-Paralel/blob/main/src/HelloWorld.png</img>: Gcc do código "Hello, world!".</li>
+<li><img>[Screenshot.png](https://github.com/Akina-Ino/Comp-Paralel/blob/main/src/HelloWorld_push.png)</img>: Screenshot do processo de push do arquivo teste.c para este repositório github.</li>
 </ul>
 
 <h2>Compilação</h2>
