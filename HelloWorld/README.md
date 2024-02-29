@@ -11,7 +11,7 @@
 
 <ul>
 <li><img src = "https://github.com/Akina-Ino/Comp-Paralel/blob/main/src/HelloWorld.png">: Gcc do código "Hello, world!".</li>
-<li><img src = "https://github.com/Akina-Ino/Comp-Paralel/blob/main/src/HelloWorld_push.png)">: Screenshot do processo de push do arquivo teste.c para este repositório github.</li>
+<li><img src = "https://github.com/Akina-Ino/Comp-Paralel/blob/main/src/HelloWorld_push.png">: Screenshot do processo de push do arquivo teste.c para este repositório github.</li>
 </ul>
 
 <h2>Compilação</h2>
